@@ -1,0 +1,11 @@
+John Doe
+Email: john.doe@gmail.com
+Phone: +91 9876543210
+
+Jane Smith
+Contact: jane_smith@outlook.com
+Mobile: 987-654-3211
+
+Alex Brown
+Email: alex.brown@yahoo.com
+Phone: (987) 654 3212
